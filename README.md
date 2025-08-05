@@ -41,6 +41,8 @@ This repository contains materials and resources for my Master's thesis research
 - **Qualitative Research**: Semi-structured interviews, thematic analysis (NVivo).
 - **Design Science Research** methodology.
 - **AR Tools**: Unity, Figma (for sketches), video prototypes.
+- **Miro Board**: Collaborative design and planning workspace  
+  [View Miro Board](https://miro.com/app/board/uXjVLds7hoo=/?share_link_id=414569836411)
 
 ## Status
 Ongoing – Final thesis submitted, potential for future development of a functional AR system based on design insights.
